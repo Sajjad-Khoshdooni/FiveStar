@@ -1,0 +1,9 @@
+include ':mqtt-client-0.4.0'
+include ':watson-iot-0.2.6'
+include ':mqtt-client-1.14-javadoc'
+include ':media-1.0.0'
+include ':fragment-1.2.0 (1)'
+include ':legacy-support-v4-1.0.0'
+include ':appcompat-1.1.0'
+include ':app'
+rootProject.name = "FiveStar"

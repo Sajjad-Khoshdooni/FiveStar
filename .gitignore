@@ -1,0 +1,21 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Project exclude paths
+/appcompat-1.1.0/build/
+/legacy-support-v4-1.0.0/build/
+/mqtt-client-0.4.0/build/
+/mqtt-client-1.14-javadoc/build/
+/watson-iot-0.2.6/build/

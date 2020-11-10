@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/appcompat-1.1.0" />
+            <option value="$PROJECT_DIR$/fragment-1.2.0 (1)" />
+            <option value="$PROJECT_DIR$/legacy-support-v4-1.0.0" />
+            <option value="$PROJECT_DIR$/media-1.0.0" />
+            <option value="$PROJECT_DIR$/mqtt-client-0.4.0" />
+            <option value="$PROJECT_DIR$/mqtt-client-1.14-javadoc" />
+            <option value="$PROJECT_DIR$/watson-iot-0.2.6" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
